@@ -1,0 +1,16 @@
+${Ansi.RED}XX          %XX%                %XX%
+${Ansi.RED}XX         SXXXXS              SXXXXS               XX
+${Ansi.RED}XX        ;X%  %X;            ;X%  %X;              XX
+${Ansi.RED}XX  tXX.  %X.  .X%   XX %XXX  %X.  .X%  XX.%XS:   XXXXXXX
+${Ansi.RED}XX ;XX.   SX    XS   XXSXXXX  SX    XS  XXSXXXX.  XXXXXXX
+${Ansi.RED}XX;XX.    XX %% XX   XX%.     XX %% XX  XX%  %X%    XX
+${Ansi.RED}XXXX;     XX %% XX   XX       XX %% XX  XX    XS    XX
+${Ansi.RED}XXXXX     SX    XS   XX       SX    XS  XX    XX    XX
+${Ansi.RED}XX tX%    %X.  .X%   XX       %X.  .X%  XX    XS    XX
+${Ansi.RED}XX  XX:   ;X%  %X;   XX       ;X%  %X;  XX%  %X%    XX.
+${Ansi.RED}XX  ;XS    SXXXXS    XX        SXXXXS   XXSXXXX.    %XXXX
+${Ansi.RED}XX   SXt    %XX%     XX         %XX%    XX %XS:     .%XXX
+${Ansi.RED}                                        XX
+${Ansi.RED}                                        XX
+${Ansi.RED}                                        XX
+${Ansi.RED} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
