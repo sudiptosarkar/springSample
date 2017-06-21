@@ -13,7 +13,7 @@ public class SampleSecurityConfiguration extends WebSecurityConfigurerAdapter {
 	protected void configure(HttpSecurity http) throws Exception {
 		System.out.println("configure for HttpSecurity has been invoked.");
 		http.authorizeRequests().antMatchers("/login/**").access("hasRole('SUPERMAN')").
-		and().formLogin();
+		and().httpBasic();
 	}
 
 	@Override
