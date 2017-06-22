@@ -87,3 +87,7 @@ a:hover {
 a:active {
 	color: #00f;
 }
+
+img.delImg {
+	vertical-align: bottom;
+}

@@ -54,7 +54,7 @@
 		</display:column>
 		<display:column title="Delete">
 			<a href="/delete/${row.username}"><img src="/img/del.png"
-				alt="Delete this record" /></a>
+				alt="Delete this record" class="delImg" /></a>
 		</display:column>
 	</display:table>
 	<br />
