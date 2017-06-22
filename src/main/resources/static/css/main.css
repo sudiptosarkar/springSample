@@ -7,3 +7,83 @@ h1 {
 h2 {
 	color: #FF0000;
 }
+
+.headerBar {
+	width: 100%;
+	background-color: #000000;
+	color: #ffffff
+}
+
+table.dispTagTable tr.odd {
+	background-color: #eff;
+}
+
+table.dispTagTable tr.even {
+	background-color: #ffe;
+}
+
+table.dispTagTable tr th.sorted {
+	background-color: #222222;
+	color: #ffffff;
+}
+
+table.dispTagTable tr th {
+	text-align: left !important;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: #777;
+	color: #fef;
+}
+
+table.dispTagTable tr th a {
+	color: #fef !important;
+	text-decoration: none;
+	background-position: right;
+	background-repeat: no-repeat;
+	width: 100%;
+	display: block;
+	margin-right: 15px;
+}
+
+table.dispTagTable tr th.sortable a {
+	background-image: url("/img/arrow_off.png");
+}
+
+table.dispTagTable tr th.sorted.order1 a {
+	background-image: url("/img/arrow_down.png");
+}
+
+table.dispTagTable tr th.sorted.order2 a {
+	background-image: url("/img/arrow_up.png");
+}
+
+table.dispTagTable tr td {
+	text-align: left !important;
+	padding-left: 5px;
+	padding-right: 10px;
+}
+
+table.dispTagTable {
+	border-spacing: 10px;
+	border-collapse: collapse;
+}
+
+table.dispTagTable, table.dispTagTable tr th, table.dispTagTable tr td {
+	border: 1px solid #000000;
+}
+
+a:link {
+	color: #00f;
+}
+
+a:visited {
+	color: #00f;
+}
+
+a:hover {
+	color: #0f0;
+}
+
+a:active {
+	color: #00f;
+}

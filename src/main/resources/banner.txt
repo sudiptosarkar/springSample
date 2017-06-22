@@ -1,16 +1,17 @@
-${Ansi.RED}XX          %XX%                %XX%
-${Ansi.RED}XX         SXXXXS              SXXXXS               XX
-${Ansi.RED}XX        ;X%  %X;            ;X%  %X;              XX
-${Ansi.RED}XX  tXX.  %X.  .X%   XX %XXX  %X.  .X%  XX.%XS:   XXXXXXX
-${Ansi.RED}XX ;XX.   SX    XS   XXSXXXX  SX    XS  XXSXXXX.  XXXXXXX
-${Ansi.RED}XX;XX.    XX %% XX   XX%.     XX %% XX  XX%  %X%    XX
-${Ansi.RED}XXXX;     XX %% XX   XX       XX %% XX  XX    XS    XX
-${Ansi.RED}XXXXX     SX    XS   XX       SX    XS  XX    XX    XX
-${Ansi.RED}XX tX%    %X.  .X%   XX       %X.  .X%  XX    XS    XX
-${Ansi.RED}XX  XX:   ;X%  %X;   XX       ;X%  %X;  XX%  %X%    XX.
-${Ansi.RED}XX  ;XS    SXXXXS    XX        SXXXXS   XXSXXXX.    %XXXX
-${Ansi.RED}XX   SXt    %XX%     XX         %XX%    XX %XS:     .%XXX
-${Ansi.RED}                                        XX
-${Ansi.RED}                                        XX
-${Ansi.RED}                                        XX
-${Ansi.RED} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
+${AnsiColor.BRIGHT_RED}XX          %XX%                %XX%
+${AnsiColor.BRIGHT_RED}XX         SXXXXS              SXXXXS               XX
+${AnsiColor.BRIGHT_RED}XX        ;X%  %X;            ;X%  %X;              XX
+${AnsiColor.BRIGHT_RED}XX  tXX.  %X.  .X%   XX %XXX  %X.  .X%  XX.%XS:   XXXXXXX
+${AnsiColor.BRIGHT_RED}XX ;XX.   SX    XS   XXSXXXX  SX    XS  XXSXXXX.  XXXXXXX
+${AnsiColor.BRIGHT_RED}XX;XX.    XX %% XX   XX%.     XX %% XX  XX%  %X%    XX
+${AnsiColor.BRIGHT_RED}XXXX;     XX %% XX   XX       XX %% XX  XX    XS    XX
+${AnsiColor.BRIGHT_RED}XXXXX     SX    XS   XX       SX    XS  XX    XX    XX
+${AnsiColor.BRIGHT_RED}XX tX%    %X.  .X%   XX       %X.  .X%  XX    XS    XX
+${AnsiColor.BRIGHT_RED}XX  XX:   ;X%  %X;   XX       ;X%  %X;  XX%  %X%    XX.
+${AnsiColor.BRIGHT_RED}XX  ;XS    SXXXXS    XX        SXXXXS   XXSXXXX.    %XXXX
+${AnsiColor.BRIGHT_RED}XX   SXt    %XX%     XX         %XX%    XX %XS:     .%XXX
+${AnsiColor.BRIGHT_RED}                                        XX
+${AnsiColor.BRIGHT_RED}                                        XX
+${AnsiColor.BRIGHT_RED}                                        XX
+${AnsiColor.BRIGHT_GREEN}Powered By${AnsiColor.BRIGHT_BLUE} :: Spring Boot${spring-boot.formatted-version} :: ${AnsiColor.BRIGHT_WHITE} \m/
+${AnsiColor.WHITE}
